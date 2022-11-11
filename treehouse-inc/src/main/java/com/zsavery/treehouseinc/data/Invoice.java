@@ -9,7 +9,7 @@ import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 
-public class Invoices {
+public class Invoice {
 	@Id
 	@GeneratedValue
 	@Column(name="model_id")
