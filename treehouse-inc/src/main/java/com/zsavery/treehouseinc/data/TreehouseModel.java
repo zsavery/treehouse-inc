@@ -75,7 +75,5 @@ public class TreehouseModel {
 	public String toString() {
 		return "TreehouseModel [id=" + id + ", model_name=" + model_name + ", window_number=" + window_number
 				+ ", window_id=" + window_id + ", price=" + price + "]";
-	}
-	
-	
+	}	
 }
