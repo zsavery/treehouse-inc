@@ -6,7 +6,7 @@ import com.zsavery.treehouseinc.data.WindowFrame;
 
 public interface WindowFrameManager {
 
-WindowFrame createWindowFrame(WindowFrame m);
+	WindowFrame createWindowFrame(WindowFrame m);
 	
 	void deleteWindowFrame(WindowFrame m);
 	
